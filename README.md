@@ -13,5 +13,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 [![Instagram Badge](https://img.shields.io/badge/-umairnehri9747-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/umairnehri9747)](https://www.instagram.com/umairnehri9747)
 [![Gmail Badge](https://img.shields.io/badge/-umairnehri9747@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kanna6501@gmail.com)](mailto:umairnehri9747@gmail.com)
 
-<hr style="background-color: black;">
+<hr>
+
+<h2>Technologies</h2>
 </div>
