@@ -22,7 +22,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 <img height="30" src="https://camo.githubusercontent.com/98ed65187a84ecf897273d9fa18118ce45845057/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67">
-<img height="30" src="http://assets.stickpng.com/thumbs/5847f5c3cef1014c0b5e489d.png">
+<img height="30" src="https://lh3.googleusercontent.com/proxy/LKDQEv3YIrzaPERU2FvaPuMOly27O5q2CGXAYiX-bdJutFb4iejop0oe1WVevt2837hPNiIqyWwj0Kxboa4hLmJn6CIx10oN5ECb3YyuYh0_vNgD47A">
 <img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
 <br><br>
   
