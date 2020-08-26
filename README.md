@@ -35,4 +35,5 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <img height="100" src="https://www.thehaguesecuritydelta.com/media/com_hsd/partner/134/logo/Schermafbeelding-2018-08-31-om-16-40-55.png">
 <img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/United_States_Department_of_Defense_Seal.svg/1200px-United_States_Department_of_Defense_Seal.svg.png">
+<img height="100" src="https://miro.medium.com/max/1000/0*dNX0ywJjZi6iIRfQ.jpg">
 </div>
