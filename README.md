@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
   <div align="center">
-  <p>Myself Umair Nehri, i am a student currently persuing by bachelor's degree in Computer Applications. I am a security researcher specializing in web application security. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open to collaborating on projects and innovative open-source based ideas.</p>
+  <p>Myself Umair Nehri, Currently I am a student pursuing my Bachelor's Of Computer Applications from Department of Computer Science ,Maulana Azad College Of Arts, Science & Commerce . I am a security researcher specializing in web application security. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open for collaborating on projects and innovative open-source based ideas.</p>
   
   <p><b>Connect with me through:</b></p>
   
