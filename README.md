@@ -6,8 +6,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
   <div align="center">
   <p>Myself Umair Nehri, i am a student currently persuing by bachelor's degree in Computer Applications. I am a security researcher specializing in web application security and malware analysis. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open to collaborating on projects and innovative open-source based ideas.</p>
   
-[![Twitter Badge](https://img.shields.io/twitter/url?label=0x9747&style=social&url=https%3A%2F%2Ftwitter.com%2F0x9747)](https://twitter.com/0x9747)
-[![Linkedin Badge](https://img.shields.io/badge/-UmairNehri-lightblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.linkedin.com/in/umair-nehri-49699317a/)](https://www.linkedin.com/in/umair-nehri-49699317a/)
+[![Twitter Badge](https://img.shields.io/badge/-UmairNehri?style=social&logo=twitter&logoColor=white&link=https://twitter.com/0x9747)](https://twitter.com/0x9747)
 [![Linkedin Badge](https://img.shields.io/badge/-UmairNehri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umair-nehri-49699317a/)](https://www.linkedin.com/in/umair-nehri-49699317a/)
 
 </div>
