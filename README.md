@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
   <div align="center">
-  <p>Myself Umair Nehri, i am a student currently persuing by bachelor's degree in Computer Applications. I am a security researcher specializing in web application security and malware analysis. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open to collaborating on projects and innovative open-source based ideas.</p>
+  <p>Myself Umair Nehri, i am a student currently persuing by bachelor's degree in Computer Applications. I am a security researcher specializing in web application security. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open to collaborating on projects and innovative open-source based ideas.</p>
   
   <p><b>Connect with me through:</b></p>
   
@@ -22,4 +22,5 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="30" src="https://camo.githubusercontent.com/98ed65187a84ecf897273d9fa18118ce45845057/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67">
 
+<h1>Recognitions</h1>
 </div>
