@@ -3,6 +3,10 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <div align="center">
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
+  <div align="center">
+  <p>Myself Umair Nehri, i am a student currently persuing by bachelor's degree in Computer Applications. I am a security researcher specializing in web application security and malware analysis. I serve as the lead innovator at <a href="https://secarmy.org/">SECARMY</a> and is always open to collaborating on projects and innovative open-source based ideas.</p>
+
+  </div>
 <!--
 **umair9747/umair9747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
