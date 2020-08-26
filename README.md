@@ -51,4 +51,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair9747&theme=radical&layout=compact)
 <br>
 <h1>Featured Works</h1>
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=Plixy&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=Staticot&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=yara-rules&theme=radical)
 </div>
