@@ -39,4 +39,6 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" src="https://miro.medium.com/max/3150/1*KYCrre6RoAL-igNsU99Xdw.png">
 <img height="100" src="https://www.cert.ssi.gouv.fr/images/logo_anssi.png">
 <img height="100" src="https://cert.gov.az/upload/Image/partners/partners-14.png">
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=umair9747&show_icons=true&hide_border=true)
 </div>
