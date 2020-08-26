@@ -43,7 +43,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <h1>My Works</h1>
 
 <a href="https://community.secarmy.org/analysis-of-malware-campaigns-related-to-covid-19/"><img src="https://i.ibb.co/X8Gk9jM/image.png" alt="image" border="0"></a>
-<a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="180" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
+<a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="178" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=umair9747&show_icons=true&hide_border=true)
 </div>
