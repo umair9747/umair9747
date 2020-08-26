@@ -47,7 +47,8 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <br>
 <h1>My GitHub Stats</h1>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=umair9747&show_icons=true&hide_border=true&theme=radical&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api?username=umair9747&show_icons=true&hide_border=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umair9747&theme=radical&layout=compact)
-
+<br>
+<h1>Featured Works</h1>
 </div>
