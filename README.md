@@ -33,4 +33,5 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
   
 <h1>Recognitions</h1>
 
+<img height="80" src="https://www.thehaguesecuritydelta.com/media/com_hsd/partner/134/logo/Schermafbeelding-2018-08-31-om-16-40-55.png">
 </div>
