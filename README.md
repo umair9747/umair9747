@@ -26,6 +26,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="30" src="https://lh3.googleusercontent.com/proxy/LKDQEv3YIrzaPERU2FvaPuMOly27O5q2CGXAYiX-bdJutFb4iejop0oe1WVevt2837hPNiIqyWwj0Kxboa4hLmJn6CIx10oN5ECb3YyuYh0_vNgD47A">
 <img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
 <img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
+<img height="30" src="https://react.semantic-ui.com/logo.png">
 
 <br><br>
   
