@@ -1,5 +1,6 @@
 ### Hi there, Welcome to my profile! 👋 
 
+![](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif)
 <!--
 **umair9747/umair9747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
