@@ -40,7 +40,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" src="https://www.cert.ssi.gouv.fr/images/logo_anssi.png">
 <img height="100" src="https://cert.br/images/logo-cert.png">
 <img height="100" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">
-<img height="100" src="https://seeklogo.com/images/H/hotstar-logo-6A3E165CC3-seeklogo.com.png">
+<img height="100" width="170" src="https://seeklogo.com/images/H/hotstar-logo-6A3E165CC3-seeklogo.com.png">
 
 <h1>My Works</h1>
 
