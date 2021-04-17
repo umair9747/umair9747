@@ -10,7 +10,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
   
 [![Twitter Badge](https://img.shields.io/badge/-UmairNehri-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/0x9747)](https://twitter.com/0x9747)
 [![Linkedin Badge](https://img.shields.io/badge/-UmairNehri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umair-nehri-49699317a/)](https://www.linkedin.com/in/umair-nehri-49699317a/)
-[![Instagram Badge](https://img.shields.io/badge/-umairnehri9747-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/umairnehri9747)](https://www.instagram.com/umairnehri9747)
+[![Instagram Badge](https://img.shields.io/badge/-umairnehri9747-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/umairnehri)](https://www.instagram.com/umairnehri)
 [![Gmail Badge](https://img.shields.io/badge/-umairnehri9747@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umairnehri9747@gmail.com)](mailto:umairnehri9747@gmail.com)
 
 <hr>
