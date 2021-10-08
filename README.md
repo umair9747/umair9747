@@ -42,6 +42,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">
 <img height="100" src="https://seeklogo.com/images/H/hotstar-logo-6A3E165CC3-seeklogo.com.png">
 <img height="100" src="http://www.pngimagesfree.com/LOGO/S/Swiggy/Swiggy-Logo-PNG.png">
+<img height="100" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Kongsberg_Gruppen_logo.svg/1200px-Kongsberg_Gruppen_logo.svg.png">
 
 <h1>My Works</h1>
 
