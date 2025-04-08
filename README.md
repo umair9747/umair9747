@@ -4,29 +4,13 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
   <div align="center">
-  <p>A security researcher with strong passion for automation and all things security especially doing it at scale. Presented at numerous BlackHat Conferences as well as GISEC DXB'24 and still there's more to come! Currently working as a Senior security analyst in the EMEA region where I manage some key customers including government players from the middle-east.</p>
+  <p>A security researcher with strong passion for automation and all things security especially when doing it at scale. Presented at numerous BlackHat Conferences as well as GISEC DXB'24 and still there's more to come! Currently working as a Senior security analyst in the EMEA region where I manage some key customers including government players from the middle-east.</p>
   
   <p><b>Connect with me through:</b></p>
   
 [![Twitter Badge](https://img.shields.io/badge/-UmairNehri-blue?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/0x9747)](https://twitter.com/0x9747)
 [![Linkedin Badge](https://img.shields.io/badge/-UmairNehri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/umair-nehri-49699317a/)](https://www.linkedin.com/in/umair-nehri-49699317a/)
-[![Instagram Badge](https://img.shields.io/badge/-umairnehri-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/umairnehri)](https://www.instagram.com/umairnehri)
 [![Gmail Badge](https://img.shields.io/badge/-umairnehri9747@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:umairnehri9747@gmail.com)](mailto:umairnehri9747@gmail.com)
-
-<hr>
-
-<h1>Technologies</h1>
-
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bash_Logo_black_and_white_icon_only.svg/1200px-Bash_Logo_black_and_white_icon_only.svg.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-<img height="30" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png">
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
-<img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732212.png7">
-
-<img height="30" src="https://seeklogo.com/images/C/css3-logo-8724075274-seeklogo.com.png">
-<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png">
-<img height="30" src="https://react.semantic-ui.com/logo.png">
 
 <br><br>
   
@@ -34,15 +18,16 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <h1>Helped Secure:</h1>
 
 <img height="100" src="https://www.thehaguesecuritydelta.com/media/com_hsd/partner/134/logo/Schermafbeelding-2018-08-31-om-16-40-55.png">
-<img height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/United_States_Department_of_Defense_Seal.svg/1200px-United_States_Department_of_Defense_Seal.svg.png">
+<img height="100" src="https://www.seekpng.com/png/full/344-3447514_defense-military-pay-office-us-department-of-defence.png">
 <img height="100" src="https://www.iofc.ch/sites/default/files/2019-09/UN%20logo%20colour%20blue.png">
-<img height="100" src="https://miro.medium.com/max/3150/1*KYCrre6RoAL-igNsU99Xdw.png">
-<img height="100" src="https://www.cert.ssi.gouv.fr/images/logo_anssi.png">
+<img height="100" src="https://avatars.githubusercontent.com/u/96835336?v=4">
 <img height="100" src="https://cert.br/images/logo-cert.png">
 <img height="100" width="170" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1000px-IBM_logo.svg.png">
-<img height="100" src="https://seeklogo.com/images/H/hotstar-logo-6A3E165CC3-seeklogo.com.png">
-<img height="100" src="http://www.pngimagesfree.com/LOGO/S/Swiggy/Swiggy-Logo-PNG.png">
+<img height="100" src="https://i.gadgets360cdn.com/large/disney_plus_hotstar_logo_1583901149861.jpg">
+<img height="100" src="https://1000logos.net/wp-content/uploads/2021/05/Swiggy-logo.png">
 <img height="100" src="https://upload.wikimedia.org/wikipedia/en/thumb/e/ea/Kongsberg_Gruppen_logo.svg/1200px-Kongsberg_Gruppen_logo.svg.png">
+<img height="100" src="https://www.pngplay.com/wp-content/uploads/15/Red-Bull-Logo-PNG-HD-Quality.png">
+<img height="100" src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg">
 
 <h1>My Blogs</h1>
 
