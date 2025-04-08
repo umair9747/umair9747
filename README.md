@@ -4,7 +4,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Dino_non-birthday_version.gif">
   </div>
   <div align="center">
-  <p>Myself Umair Nehri, Currently I am a student pursuing my Bachelor's Of Computer Applications from Department of Computer Science ,Maulana Azad College Of Arts, Science & Commerce . I am a security researcher specializing in web application security and is always open for collaborating on projects and innovative open-source based ideas.</p>
+  <p>A security researcher with strong passion for automation and all things security especially doing it at scale. Presented at numerous BlackHat Conferences as well as GISEC DXB'24 and still there's more to come! Currently working as a Senior security analyst in the EMEA region where I manage some key customers including government players from the middle-east.</p>
   
   <p><b>Connect with me through:</b></p>
   
