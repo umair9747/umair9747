@@ -30,7 +30,8 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg">
 
 <h1>My Blogs</h1>
-
+<a href="https://redhuntlabs.com/blog/massive-cloud-scan-revealed-thousands-of-exposed-and-leaky-buckets/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/12/Massive-Cloud-Scan-Revealed-Thousands-of-Exposed-and-Leaky-Buckets.png" alt="image" border="0" height="180" width="350"></a>
+<a href="https://redhuntlabs.com/blog/analysing-misconfigured-firebase-apps-a-tale-of-unearthing-data-breaches-wave-10/"><img src="https://redhuntlabs.com/wp-content/uploads/2022/11/banner-1.png" alt="image" border="0" height="180" width="350"></a>
 <a href="https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8-2/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/01/Untitled-design-1.webp" alt="image" border="0" height="180" width="350"></a>
 <a href="https://community.secarmy.org/analysis-of-malware-campaigns-related-to-covid-19/"><img src="https://i.ibb.co/X8Gk9jM/image.png" alt="image" border="0"></a>
 <a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="178" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
