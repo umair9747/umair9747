@@ -31,7 +31,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <h1>My Blogs</h1>
 
-<a href="https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8-2/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/01/Untitled-design-1.webp" alt="image" border="0"></a>
+<a href="https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8-2/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/01/Untitled-design-1.webp" alt="image" border="0" height="150" width="450"></a>
 <a href="https://community.secarmy.org/analysis-of-malware-campaigns-related-to-covid-19/"><img src="https://i.ibb.co/X8Gk9jM/image.png" alt="image" border="0"></a>
 <a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="178" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
 <a href="https://medium.com/@AndyInfoSec/emotet-is-back-c8cea10cb612"><img src="https://i.ibb.co/qk0TxfT/Emotet-2.png" alt="Emotet-2" border="0" width="300" height="178"></a>
