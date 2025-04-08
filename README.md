@@ -31,14 +31,11 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 
 <h1>My Blogs</h1>
 
+<a href="https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8-2/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/01/Untitled-design-1.webp" alt="image" border="0"></a>
 <a href="https://community.secarmy.org/analysis-of-malware-campaigns-related-to-covid-19/"><img src="https://i.ibb.co/X8Gk9jM/image.png" alt="image" border="0"></a>
 <a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="178" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
 <a href="https://medium.com/@AndyInfoSec/emotet-is-back-c8cea10cb612"><img src="https://i.ibb.co/qk0TxfT/Emotet-2.png" alt="Emotet-2" border="0" width="300" height="178"></a>
 <a href="https://medium.com/@cykn0x/so-you-wanna-create-a-room-on-tryhackme-95e6c64543ca"><img src="https://i.ibb.co/c8bTdS6/So-You-Wanna-Create-A-Room-On-Try-Hack-Me.png" border="0" height="200" width="300"></a>
-<a href="https://medium.com/ax1al/javascript-obfuscation-what-why-and-how-5a269e6b6d50"><img src="https://miro.medium.com/max/875/0*ZFdl6ra5ffeORNpW.png" height="200" width="300"></a>
-<a href="https://medium.com/ax1al/session-hijacking-a-brief-overview-e65480e887cb"><img src="https://miro.medium.com/max/875/1*UHLJo0zmqbfzF0sKdj1ykA.png" height="200" width="300"></a>
-<a href="https://medium.com/ax1al/the-child-process-module-a-brief-introduction-debd984840f1"><img src="https://miro.medium.com/max/875/1*b-NCa4t1vUaYg0y7szD_Og.png" height="200" width="300"></a>
-<a href="https://medium.com/ax1al/an-introduction-to-eeprom-d0cc1b54b976"><img src="https://miro.medium.com/max/875/1*IpACbZxt3_tz7mxnFm7iYw.png" height="200" width="300"></a>
 
 <br>
 <h1>My GitHub Stats</h1>
