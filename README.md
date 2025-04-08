@@ -36,7 +36,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <a href="https://community.secarmy.org/analysis-of-malware-campaigns-related-to-covid-19/"><img src="https://i.ibb.co/X8Gk9jM/image.png" alt="image" border="0"></a>
 <a href="https://community.secarmy.org/evilnum-apt-group-and-its-malware/"><img height="178" src="https://i.ibb.co/Fmb9dd0/image.png" alt="image" border="0"></a>
 <a href="https://medium.com/@AndyInfoSec/emotet-is-back-c8cea10cb612"><img src="https://i.ibb.co/qk0TxfT/Emotet-2.png" alt="Emotet-2" border="0" width="300" height="178"></a>
-<a href="https://medium.com/@cykn0x/so-you-wanna-create-a-room-on-tryhackme-95e6c64543ca"><img src="https://i.ibb.co/c8bTdS6/So-You-Wanna-Create-A-Room-On-Try-Hack-Me.png" border="0" height="200" width="300"></a>
+<a href="https://medium.com/@cykn0x/so-you-wanna-create-a-room-on-tryhackme-95e6c64543ca"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*afjrMb6_8mw4LFtG3mK2YA.png" border="0" height="180" width="350"></a>
 
 <br>
 <h1>My GitHub Stats</h1>
