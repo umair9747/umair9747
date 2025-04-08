@@ -47,8 +47,10 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <br>
 <h1>Featured Projects</h1>
 
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=Staticot&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=yara-rules&theme=radical)
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=Plixy&theme=radical)
-
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=redhuntlabs&repo=bucketloot&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=genzai&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=4oFour&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=seize&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=leakyGPT&theme=radical)
+![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=umair9747&repo=pumpWatch&theme=radical)
 </div>
