@@ -30,6 +30,7 @@ src="https://media.giphy.com/media/mA28dHGEU8Us36wEYJ/giphy.gif" height="32" /><
 <img height="100" src="https://www.nasa.gov/wp-content/themes/nasa/assets/images/nasa-logo.svg">
 
 <h1>My Blogs</h1>
+<a href="https://medium.com/@umairnehri9747/scribd-a-goldmine-of-sensitive-data-uncovering-thousands-of-pii-records-hiding-in-plain-sight-bad0fac4bf14"><img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*afjrMb6_8mw4LFtG3mK2YA.png" alt="image" border="0" height="180" width="350"></a>
 <a href="https://redhuntlabs.com/blog/massive-cloud-scan-revealed-thousands-of-exposed-and-leaky-buckets/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/12/Massive-Cloud-Scan-Revealed-Thousands-of-Exposed-and-Leaky-Buckets.png" alt="image" border="0" height="180" width="350"></a>
 <a href="https://redhuntlabs.com/blog/analysing-misconfigured-firebase-apps-a-tale-of-unearthing-data-breaches-wave-10/"><img src="https://redhuntlabs.com/wp-content/uploads/2022/11/banner-1.png" alt="image" border="0" height="180" width="350"></a>
 <a href="https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8-2/"><img src="https://redhuntlabs.com/wp-content/uploads/2023/01/Untitled-design-1.webp" alt="image" border="0" height="180" width="350"></a>
